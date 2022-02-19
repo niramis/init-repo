@@ -1,4 +1,4 @@
 public class Repo {
-    String name;
+    String username;
     int value;
 }
