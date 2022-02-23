@@ -3,4 +3,5 @@ public class Repo {
     int value;
     String description;
     String desc;
+    int quantity;
 }
