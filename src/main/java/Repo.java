@@ -2,7 +2,7 @@ public class Repo {
     String username;
     int value;
     String description;
-    String desc;
+    String text;
     int quantity;
     int number;
 }
